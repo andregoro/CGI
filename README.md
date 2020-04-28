@@ -1,2 +1,2 @@
 # CGI
-Site em construçao
+Site em construção
